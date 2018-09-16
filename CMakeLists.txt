@@ -3,4 +3,4 @@ project(lipo-sapr-lab1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(lipo-sapr-lab1 main.cpp Greeter.cpp Greeter.h)
+add_executable(lipo-sapr-lab1 main.cpp Greeter.cpp Greeter.h tests/test.cpp)
